@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dearmichelley
 - 👀 I’m interested in becoming a web developer, the outdoors, reading, learning, and growing.
-- 🌱 I’m currently learning the ins and outs of JavaScript, as I am a very detailed person. 
+- 🌱 I’m currently learning the ins and outs. 
 - 💞️ I’m looking to collaborate on any project for nonprofit or for fun(:
 - 📫 How to reach me ... git at me, lol
 
