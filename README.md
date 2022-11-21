@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michellejanaycodes
+- 👋 Hi, I’m @michellejanay
 - 👀 I’m interested in web development, graphic design, the outdoors, reading, learning, and growing.
 - 🌱 I’m currently learning the ins and outs. 
 - 💞️ I’m looking to collaborate on any project for nonprofit or for fun(:
