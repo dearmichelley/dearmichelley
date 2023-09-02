@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michellejanay
-- 👀 I’m interested in software engineering, the outdoors, reading, learning, and growing
+- 👀 I’m interested in software development, the outdoors, reading, learning, and growing
 - 🌱 I’m currently learning the ins and outs
 - 💞️ I’m looking to collaborate with other developers in a new full-time position
 - 📫 How to reach me ... git at me, lol
